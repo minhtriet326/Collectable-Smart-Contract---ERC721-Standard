@@ -1,0 +1,27 @@
+{
+    "name": "Le Phuong Tuyet 2",
+    "description": "Pink white front right hand fence flower leaf",
+    "image": "https://ipfs.io/ipfs/QmXLyRTzfNy2YuiTSSmuKbFVDfPfdUPzWV2LuJGiSRCpzo",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 4,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Control",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": 1,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Nitro",
+            "value": 9,
+            "max_value": 10
+        }
+    ]
+}
